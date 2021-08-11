@@ -1,4 +1,4 @@
-#Projeto usando React para criar um site de notícias
+# Projeto usando React para criar um site de notícias
 
 ## Getting Started with Create React App
 
